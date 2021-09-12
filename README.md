@@ -23,3 +23,6 @@ $ pip install Django
 ```python
 $ python manage.py runserver
 ```
+
+Followed from <a href="https://youtu.be/llbtoQTt4qw" target="_blank">Dennis Ivy</a> Channel.
+<h3 align="center"> Thank You </h3>
